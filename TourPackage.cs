@@ -1,0 +1,35 @@
+﻿//using System;
+
+
+
+//public class TourPackage
+//{
+//	//fields
+//	private int _id;
+//	private List<string> _destination;
+//	private int _days;
+//	private int _price;
+//	private string _name;
+//	private bool _booked;
+	
+//	public static void Main()
+//	{
+//        TourPackage tourPackage = new TourPackage();
+//        TourPackage.SetUpPackage("Pokhara", 3, 9000);
+//    }
+
+//	//class bhaneko structure
+//	public void SetUpPackage(string destination, int days, int price)
+//	{
+//		_destination = new List<string>();
+//		_destination.Add(destination);
+//		_days = days;
+//		_price = price;
+//	}
+
+//	private void BookPackage(string name, bool book)
+//	{
+//		_name = name;
+//		_booked = book;
+//	}
+//}
